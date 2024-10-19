@@ -1,6 +1,6 @@
 # Astro Starter Kit: Minimal
 
-[demo](https://app.netlify.com/sites/fastidious-bunny-df8f48/overview)
+[demo](https://deutschklub.netlify.app/)
 
 ```sh
 npm create astro@latest -- --template minimal
