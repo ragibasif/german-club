@@ -2,7 +2,7 @@
 
 Welcome to the **German Club** website repository! This project serves as a central hub for sharing information about the club, upcoming events, and resources for members. It is built with HTML, CSS, and JavaScript for simplicity and ease of use.
 
-![Made by ragibasif](https://img.shields.io/badge/Made%20by-ragibasif-blue?style=for-the-badge)
+[![Made by ragibasif](https://img.shields.io/badge/Made%20by-ragibasif-purple?style=for-the-badge)](https://www.linkedin.com/in/ragibasif/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e50863e-d311-4e47-9b08-24a5af9451de/deploy-status)](https://app.netlify.com/sites/deutschklub/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
